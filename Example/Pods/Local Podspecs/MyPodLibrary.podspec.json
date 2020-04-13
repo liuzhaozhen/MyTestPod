@@ -1,0 +1,22 @@
+{
+  "name": "MyPodLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MyPodLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hui6352590@163.com/MyPodLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hui6352590@163.com": "hui6352590@163.com"
+  },
+  "source": {
+    "git": "https://github.com/hui6352590@163.com/MyPodLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyPodLibrary/Classes/**/*"
+}
